@@ -1,0 +1,14 @@
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\bin\Debug\net6.0\List_Homework.exe
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\bin\Debug\net6.0\List_Homework.deps.json
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\bin\Debug\net6.0\List_Homework.runtimeconfig.json
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\bin\Debug\net6.0\List_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\bin\Debug\net6.0\List_Homework.pdb
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.AssemblyInfoInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.AssemblyInfo.cs
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.csproj.CoreCompileInputs.cache
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\refint\List_Homework.dll
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.pdb
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\List_Homework.genruntimeconfig.cache
+C:\Users\Omara\OneDrive\Desktop\Lists_P418\List_Homework\List_Homework\obj\Debug\net6.0\ref\List_Homework.dll
